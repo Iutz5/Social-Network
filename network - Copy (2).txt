@@ -1,0 +1,9 @@
+P, Nick, Pearl
+P, Gavin, Lyons
+P, Fred, Neil
+F, Nick, Pearl, Gavin, Lyons
+M, Nick, Pearl, Gavin, Lyons, "Hey friend!"
+M, Nick, Pearl, Fred, Neil, "Do you want to be friends?"
+E, Nick, Pearl
+E, Gavin, Lyons
+E, Fred, Neil

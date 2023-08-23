@@ -1,0 +1,13 @@
+P, Neil, Peart
+P, Geddy, Lee
+P, Alex, Lifeson
+P, Gordon, Sumner
+P, Stewart, Copeland
+P, Andy, Summer
+F, Neil, Peart, Geddy, Lee
+B, Neil, Peart, Gordon, Sumner
+F, Gordon, Sumner, Neil, Peart
+M, Neil,Peart, Stewart, Copeland, I am the best rocker drummer in the universe!
+M, Stewart, Copeland, Neil, Peart, Your mother was a hamster and your father smells of elderberries!
+M, Neil, Peart, Stewart, Copeland, I must admit you have some great cymbal work.
+M, Gordon, Sumner, Neil, Peart, Pick on someone your own size…
